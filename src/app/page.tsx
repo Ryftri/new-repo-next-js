@@ -1,3 +1,5 @@
+"use client"
+
 import { MainComponent } from "@/components/MainComponent";
 import { SidebarComponent } from "@/components/SidebarComponent";
 import { Footer } from "flowbite-react";
